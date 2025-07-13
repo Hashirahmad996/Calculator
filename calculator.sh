@@ -5,7 +5,7 @@
 echo "Enter first number:"
 read num1
 
-echo "Enter second number:"
+echo "Enter second number 5:"
 read num3
 
 echo "Choose operation: +  -  *  /"
